@@ -29,7 +29,23 @@ Selanjutnya tambahkan deklarasi Inline CSS pada tag `<p>` Contoh Codingannya sep
 
 ![Gambar 5](img/ss5.png)
 
-kita lihat tampilan Website nya jadi seperti ini :
+kita lihat tampilan paragraf pada Website nya jadi seperti ini :
 
 ![Gambar 6](img/ss6.png)
+
+### Menambahkan CSS Eksternal 
+
+Langkah awal kita buat file nya terlebih dahulu, Contohnya seperti gambar dibawah ini :
+
+![Gambar 7](img/ss7.png)
+
+Kemudian save file CSS Eksternal berikut di dalam folder yang sama, 
+kemudian tambahkan tag `<link>` untuk merujuk ke file CSS yang sudah dibuat pada bagian `<head>` tadi.
+Contoh codingan nya seperti ini :
+
+![Gambar 8](img/ss8.png)
+
+Kita lihat tampilan Website nya jadi seperti ini 
+
+![Gambar 9](img/ss9.png)
 
