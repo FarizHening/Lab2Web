@@ -49,3 +49,13 @@ Kita lihat tampilan Website nya jadi seperti ini
 
 ![Gambar 9](img/ss9.png)
 
+### Menambahkan CSS Selector 
+
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Contoh nya seperti gambar dibawah ini 
+
+![Gambar 10](img/ss10.png)
+
+dan tampilan Website nya akan lebih menarik 
+
+![gambar 11](img/ss11.png)
+
