@@ -23,3 +23,13 @@ Tampilan Website nya akan seperti gambar dibawah ini, Perhatikan bagian judulnya
 
 ![Gambar 4](img/ss4.png)
 
+### Menambahkan Inline CSS
+
+Selanjutnya tambahkan deklarasi Inline CSS pada tag `<p>` Contoh Codingannya seperti ini :
+
+![Gambar 5](img/ss5.png)
+
+kita lihat tampilan Website nya jadi seperti ini :
+
+![Gambar 6](img/ss6.png)
+
